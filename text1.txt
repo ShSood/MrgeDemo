@@ -1,3 +1,7 @@
 Hello
+<<<<<<< HEAD
 
 I am a new line
+=======
+Shaswat
+>>>>>>> 2fc54cb1503742f19cf2f1d58b4b8c7bc95e168a
